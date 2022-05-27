@@ -1,4 +1,4 @@
-# cydia-repository
+# PetitStrawberry's Cydia Repository
 
 工事中
 
